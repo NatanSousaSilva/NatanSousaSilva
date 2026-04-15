@@ -1,4 +1,4 @@
-# Hi there, I'm Elton! 👋
+# Hi there, I'm Natan! 
 
 ### 🤖 About Me
 I am a **Full-stack Developer** specializing in **Residential Automation and Robotics**. My work sits at the intersection of hardware and software, where I focus on building intelligent systems that make environments smarter and more efficient.
@@ -9,10 +9,10 @@ I am a **Full-stack Developer** specializing in **Residential Automation and Rob
 
 ---
 
-### 🏢 Organization & Group Projects
-- **Active Contributor:** I have actively participated in projects within various GitHub Organizations, collaborating on shared codebases and following agile methodologies.
-- **Team Player:** Experienced in code reviews, pull requests, and maintaining documentation for community-driven projects.
-- **Impact:** Focused on delivering scalable solutions and contributing to the growth of the organizations I'm part of.
+### 🏢 Organization & Contributions
+- **Project Architect:** I have spearheaded the deployment of multiple projects within my organization, building a robust ecosystem of automation and robotics repositories.
+- **Organization Growth:** Actively populating the organization's codebase with scalable solutions and establishing standardized workflows for the team.
+- **Collaborative Leadership:** Focused on maintaining high-quality code through rigorous peer reviews and comprehensive documentation.
 
 ---
 
